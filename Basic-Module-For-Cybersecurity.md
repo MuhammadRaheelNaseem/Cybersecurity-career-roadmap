@@ -1,10 +1,4 @@
-Bilkul Raheel! Mein tumhare **Basic Level** roadmap ko mazeed comprehensive bana deta hoon. Har section mein zyada details, subtopics, resources, aur practical steps include kar raha hoon taake tumhein clear guidance mile.
-
-### **📌 Cybersecurity Career Roadmap**
-
----
-
-## **🔰 Basic Level**
+## **🔰 Basic Module**
 
 ### **1. Fundamentals Samajhna**
 #### **a. Networking Basics**
@@ -287,7 +281,7 @@ Bilkul Raheel! Mein tumhare **Basic Level** roadmap ko mazeed comprehensive bana
 
 ---
 
-## **📅 Detailed Timeline for Basic Level (Approx. 6-12 Months)**
+## **📅 Detailed Timeline for Basic Module (Approx. 6-12 Months)**
 
 ### **Months 1-3: Fundamentals Samajhna**
 - **Networking Basics:**
@@ -326,10 +320,8 @@ Bilkul Raheel! Mein tumhare **Basic Level** roadmap ko mazeed comprehensive bana
 
 ## **✅ Final Tips for Basic Level**
 
-- **Consistency:** Har roz thoda thoda time dedicate karo study aur practice ke liye.
-- **Hands-On Practice:** Theory ke sath-sath hamesha practical application par focus karo.
-- **Stay Organized:** Apne study schedule ko follow karo, milestones set karo aur unhe achieve karne ki koshish karo.
-- **Seek Help When Needed:** Agar kisi topic mein problem ho, toh online forums ya study groups se madad lo.
-- **Document Your Learning:** Apne projects, scripts, aur lab setups ko document karo taake portfolio build kar sako.
-
-Yeh comprehensive basic level roadmap tumhein strong foundation banane mein madad karega. Har step ko patiently follow karo aur apne progress ko track karte raho. Next stages ke liye bhi mein available hoon jab tum ready ho! Best of luck, Raheel! 🚀🔐
+- **Consistency:** Dedicate a little time every day to study and practice.  
+- **Hands-On Practice:** Always focus on practical application along with theory.  
+- **Stay Organized:** Stick to your study schedule, set milestones, and work to achieve them.  
+- **Seek Help When Needed:** If you face issues with any topic, seek help from online forums or study groups.  
+- **Document Your Learning:** Keep records of your projects, scripts, and lab setups to build your portfolio.  
