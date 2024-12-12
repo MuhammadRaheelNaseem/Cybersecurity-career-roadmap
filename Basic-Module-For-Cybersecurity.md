@@ -1,4 +1,4 @@
-## **🔰 Basic Module**
+# **🔰 Basic Module**
 
 ### **1. Fundamentals Samajhna**
 #### **a. Networking Basics**
