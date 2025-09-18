@@ -1,4 +1,4 @@
-## **🎯 Advanced Module**
+## **Advanced Module**
 
 ### **1. Advanced Technical Skills**
 
@@ -580,7 +580,7 @@
 
 ---
 
-## **✅ Final Tips for Advanced Level**
+## **Final Tips for Advanced Level**
 
 - **Master Advanced Concepts:** Strive to thoroughly understand every advanced topic, focusing on both theoretical knowledge and practical application.  
 - **Engage in Continuous Practice:** Regularly participate in advanced labs, CTFs, and red teaming exercises to sharpen your skills.  
