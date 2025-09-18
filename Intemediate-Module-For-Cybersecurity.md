@@ -1,4 +1,4 @@
-## **🚀 Intermediate Module**
+## **Intermediate Module**
 
 ### **1. Advanced Networking and Systems**
 
@@ -346,7 +346,7 @@
 
 ---
 
-## **✅ Final Tips for Intermediate Level**
+## **Final Tips for Intermediate Level**
 
 - **Deep Dive into Topics:** Strive to thoroughly understand each topic, focusing on both theoretical knowledge and practical application.  
 - **Consistent Practice:** Regularly work on hands-on labs and projects to reinforce your skills.  
