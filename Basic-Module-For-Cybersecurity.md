@@ -1,4 +1,4 @@
-# **🔰 Basic Module**
+# ** Basic Module**
 
 ### **1. Fundamentals**
 #### **a. Networking Basics**
@@ -318,7 +318,7 @@
 
 ---
 
-## **✅ Final Tips for Basic Level**
+## **Final Tips for Basic Level**
 
 - **Consistency:** Dedicate a little time every day to study and practice.  
 - **Hands-On Practice:** Always focus on practical application along with theory.  
