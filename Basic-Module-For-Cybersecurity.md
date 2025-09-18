@@ -1,6 +1,6 @@
 # **🔰 Basic Module**
 
-### **1. Fundamentals Samajhna**
+### **1. Fundamentals**
 #### **a. Networking Basics**
 - **Topics:**
   - **TCP/IP Model:**
